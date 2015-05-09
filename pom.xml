@@ -4,14 +4,14 @@
 
 	<groupId>no.atc</groupId>
 	<artifactId>super-pom</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 	<packaging>pom</packaging>
 
 	<properties>
 		<warehouse14.owner>Ano-Tech-Computers</warehouse14.owner>
 		<warehouse14.name>Warehouse14</warehouse14.name>
 		<warehouse14.branch>maven</warehouse14.branch>
-		<warehouse14.url>https://github.com/${warehouse14.owner}/${warehouse14.name}/tree/${warehouse14.branch}</warehouse14.url>
+		<warehouse14.url>https://raw.githubusercontent.com/${warehouse14.owner}/${warehouse14.name}/${warehouse14.branch}</warehouse14.url>
 		<warehouse14.local.directory>${project.build.directory}/warehouse14</warehouse14.local.directory>
 	</properties>
 
