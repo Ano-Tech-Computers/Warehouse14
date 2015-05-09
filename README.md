@@ -7,7 +7,7 @@ You can add the warehouse to your Maven POM as a repository for automatic depend
 <repositories>
   <repository>
     <id>warehouse14</id>
-    <url>https://github.com/Ano-Tech-Computers/Warehouse14/tree/maven/</url>
+    <url>https://raw.githubusercontent.com/Ano-Tech-Computers/Warehouse14/maven</url>
   </repository>
 </repositories>
 ```
