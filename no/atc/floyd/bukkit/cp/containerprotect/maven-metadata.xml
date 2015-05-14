@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>no.atc.floyd.bukkit.cp</groupId>
+  <artifactId>containerprotect</artifactId>
+  <versioning>
+    <release>1.21</release>
+    <versions>
+      <version>1.21</version>
+    </versions>
+    <lastUpdated>20150514220343</lastUpdated>
+  </versioning>
+</metadata>
