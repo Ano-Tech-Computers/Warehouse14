@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 
 	<properties>
-		<project.build.sourceEncoding>ASCII</project.build.sourceEncoding>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<warehouse14.owner>Ano-Tech-Computers</warehouse14.owner>
 		<warehouse14.name>Warehouse14</warehouse14.name>
 		<warehouse14.branch>maven</warehouse14.branch>
